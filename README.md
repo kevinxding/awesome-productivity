@@ -132,4 +132,4 @@
 
 ### Voice Dictation
 
-- [Whispek](https://whispek.com) - Freemium desktop voice dictation app for writing text and prompts by voice, with a free weekly allowance (Windows; macOS and Linux in beta).
+- [SayDart](https://saydart.com) - Freemium desktop voice dictation app for writing text and prompts by voice, with a free weekly allowance (Windows and macOS).
